@@ -1,0 +1,25 @@
+Name: Chloe Smalley
+Email: chloe.smalley99@gmail.com
+Phone: +44 7987 654321
+
+Summary:
+Enthusiastic full-stack developer with experience in web application development and cloud deployment. Adept at writing clean, scalable code and collaborating in agile environments.
+
+Skills:
+Java, JavaScript, React, Node.js, HTML, CSS, SQL, AWS, Docker
+
+Education:
+BSc Computer Science, University of Manchester, UK
+
+Experience:
+• Built an e-commerce platform using Java Spring Boot and React
+• Deployed microservices to AWS ECS with Docker containers
+• Collaborated on RESTful API design and integration
+
+Projects:
+• E-Commerce Web App – Full-stack shopping platform
+• Weather Dashboard – React app fetching live weather data from APIs
+
+Certifications:
+• AWS Certified Developer – Associate
+• Java Programming Masterclass (Udemy)

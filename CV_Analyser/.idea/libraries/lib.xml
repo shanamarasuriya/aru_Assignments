@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-examples-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-excelant-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-full-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-ooxml-lite-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-scratchpad-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/log4j-core-2.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Other files/pdfbox-app-2.0.33.jar!/" />
+      <root url="file://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib" />
+      <root url="file://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-javadoc-5.2.2.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Other files/poi-bin-5.2.2-20220312/poi-bin-5.2.2/ooxml-lib" recursive="false" />
+  </library>
+</component>
